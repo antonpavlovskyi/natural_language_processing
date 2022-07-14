@@ -1,3 +1,10 @@
+# idea files
+/.idea
+
+# large files
+3_Thematic_modeling/Materials/df_temp.ftr
+3_Thematic_modeling/Materials/banki_responses.json.bz2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
